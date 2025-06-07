@@ -46,6 +46,15 @@ The uploaded `.csv` should contain the following columns:
 | `Actual Battery Temp Day 3 (°C)`    | Ground truth temp for Day 3 forecast          |
 
 ---
+## Sample Outputs
+
+### Comparative Temperature Forecast
+<p align="center">
+  <img src="images/res1.png" alt="Comparative Plot" width="80%"/>
+</p>
+<p align="center">
+  <img src="images/res2.png" alt="Comparative Plot" width="80%"/>
+</p>
 
 ## 🛠 Installation
 
