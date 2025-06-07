@@ -48,6 +48,10 @@ The uploaded `.csv` should contain the following columns:
 ---
 ## Sample Outputs
 
+### File drop web
+<p align="center">
+  <img src="Images/MLweb.png" alt="Comparative Plot" width="80%"/>
+</p>
 ### Comparative Temperature Forecast
 <p align="center">
   <img src="Images/Output.png" alt="Comparative Plot" width="80%"/>
