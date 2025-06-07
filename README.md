@@ -5,9 +5,10 @@
 
 ## 📌 Overview
 
-This project presents a **Streamlit-based web application** for forecasting the **battery temperature** of **Lithium-ion cells** over three future days (Day 1, Day 2, Day 3) using a **hybrid Temporal Convolutional Network (TCN)** and **Transformer Encoder** architecture. It takes real-world or simulated battery parameter logs as input and predicts temperature behavior using a time-series model that combines the strengths of local temporal modeling (TCN) and long-range dependency modeling (Transformer). A powerful time-series forecasting system for predicting the future thermal behavior of lithium-ion batteries over multiple days using a hybrid deep learning model that combines Temporal Convolutional Networks (TCN) and Transformer encoders.
+This project presents a **Streamlit-based web application** for forecasting the **battery temperature** of **Lithium-ion cells** over three future days (Day 1, Day 2, Day 3) using a **hybrid Temporal Convolutional Network (TCN)** and **Transformer Encoder** architecture. It takes real-world or simulated battery parameter logs as input and predicts temperature behavior using a time-series model that combines the strengths of local temporal modeling (TCN) and long-range dependency modeling (Transformer). A powerful time-series forecasting system for predicting the future thermal behavior of lithium-ion batteries over multiple days using a hybrid deep learning model that combines Temporal Convolutional Networks (TCN) and Transformer encoders. 
 
 Built with Streamlit, the interactive web interface allows users to upload historical battery datasets and visualize day-wise predicted vs. actual battery temperatures, backed by detailed metrics and downloadable results. The system is designed to assist in battery thermal management, early overheating detection, and health diagnostics.
+
 ---
 
 ## 🚀 Features
