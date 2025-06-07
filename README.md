@@ -50,10 +50,10 @@ The uploaded `.csv` should contain the following columns:
 
 ### Comparative Temperature Forecast
 <p align="center">
-  <img src="images/res1.png" alt="Comparative Plot" width="80%"/>
+  <img src="images/Output.png" alt="Comparative Plot" width="80%"/>
 </p>
 <p align="center">
-  <img src="images/res2.png" alt="Comparative Plot" width="80%"/>
+  <img src="images/Output1.png" alt="Comparative Plot" width="80%"/>
 </p>
 
 ## 🛠 Installation
